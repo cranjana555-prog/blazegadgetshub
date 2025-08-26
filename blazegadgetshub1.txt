@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Blaze Gadgets Hub – Kathmandu, Mid‑Baneshwor</title>
+  <meta name="description" content="Blaze Gadgets Hub – Your local gadgets & accessories store in Mid‑Baneshwor, Kathmandu. Call 9709950397." />
+  <meta property="og:title" content="Blaze Gadgets Hub" />
+  <meta property="og:description" content="Gadgets & accessories in Mid‑Baneshwor, Kathmandu. Call 9709950397." />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#111827" />
+  <style>
+    :root{
+      --bg:#0b0f19; /* rich dark */
+      --panel:#111827;
+      --text:#f9fafb;
+      --muted:#9ca3af;
+      --brand:#22c55e; /* green accent */
+      --brand-2:#38bdf8; /* cyan accent */
+      --card:#0f172a;
+      --ring: rgba(56,189,248,.45);
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0; font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Helvetica Neue',Arial,'Noto Sans','Apple Color Emoji','Segoe UI Emoji'; color:var(--text); background:linear-gradient(180deg, var(--bg), #06080f 70%);}    
+    a{color:inherit; text-decoration:none}
+    .container{max-width:1120px; margin:0 auto; padding:0 20px}
+    header{position:sticky; top:0; backdrop-filter:saturate(140%) blur(8px); background:rgba(11,15,25,.6); border-bottom:1px solid rgba(255,255,255,.06); z-index:20}
+    .nav{display:flex; align-items:center; justify-content:space-between; padding:14px 0}
+    .brand{display:flex; align-items:center; gap:12px}
+    .logo{width:38px; height:38px; border-radius:12px; background:conic-gradient(from 200deg, var(--brand), var(--brand-2)); box-shadow:0 0 30px rgba(34,197,94,.35), 0 0 60px rgba(56,189,248,.25)}
+    .brand h1{font-size:1.1rem; margin:0; letter-spacing:.4px}
+    .nav a.btn{padding:10px 14px; border:1px solid rgba(255,255,255,.12); border-radius:12px}
+    .hero{padding:80px 0 40px; text-align:center}
+    .hero h2{font-size:clamp(1.8rem, 3vw + 1rem, 3rem); margin:0 0 10px; line-height:1.1}
+    .hero p{color:var(--muted); margin:0 auto 22px; max-width:720px}
+    .cta{display:inline-flex; gap:12px}
+    .btn-primary{background:linear-gradient(135deg, var(--brand), var(--brand-2)); border:none; padding:12px 16px; border-radius:14px; color:#05161a; font-weight:700; box-shadow:0 10px 25px rgba(34,197,94,.25), inset 0 0 0 1px rgba(0,0,0,.15)}
+    .btn-ghost{background:transparent; border:1px solid rgba(255,255,255,.15); padding:12px 16px; border-radius:14px}
+    .grid{display:grid; gap:18px}
+    .features{padding:30px 0 18px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02)); border:1px solid rgba(255,255,255,.08); border-radius:18px; padding:18px; box-shadow:0 10px 28px rgba(2,6,23,.35)}
+    .card h3{margin:0 0 6px}
+    .two-col{grid-template-columns:1fr}
+    @media(min-width:840px){.two-col{grid-template-columns:1.2fr .8fr}}
+    .pill{display:inline-flex; gap:8px; align-items:center; background:rgba(56,189,248,.08); border:1px solid rgba(56,189,248,.25); color:#d1f3ff; padding:6px 10px; border-radius:999px; font-size:.85rem}
+    .contact{padding:24px 0 80px}
+    .list{display:grid; gap:12px}
+    .list a, .list div{display:flex; gap:12px; align-items:center; padding:12px; border-radius:14px; background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08)}
+    .list svg{flex:0 0 20px}
+    footer{border-top:1px solid rgba(255,255,255,.08); padding:16px 0 40px; color:var(--muted); font-size:.9rem}
+    .badges{display:flex; gap:10px; flex-wrap:wrap}
+    .socials{display:flex; gap:12px}
+    .socials a{display:inline-flex; align-items:center; justify-content:center; width:40px; height:40px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:rgba(255,255,255,.03)}
+    .shadow-ring:focus{outline:none; box-shadow:0 0 0 6px var(--ring)}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <h1>Blaze Gadgets Hub</h1>
+      </div>
+      <nav class="socials" aria-label="Social links">
+        <a class="shadow-ring" target="_blank" rel="noopener" href="https://www.facebook.com/share/1B3jE6tkk6/" aria-label="Facebook" title="Facebook">
+          <!-- Facebook -->
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.07C22 6.48 17.52 2 11.93 2S2 6.48 2 12.07C2 17.08 5.66 21.21 10.44 22v-7.02H7.9v-2.91h2.54V9.83c0-2.5 1.49-3.88 3.77-3.88 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.86h2.78l-.44 2.91h-2.34V22C18.34 21.21 22 17.08 22 12.07z"/></svg>
+        </a>
+        <a class="shadow-ring" target="_blank" rel="noopener" href="https://www.instagram.com/blaze_gadget_hub?igsh=eXFhamtvdTRqbm50&utm_source=ig_contact_invite" aria-label="Instagram" title="Instagram">
+          <!-- Instagram -->
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7zm10.5 2.2a1.3 1.3 0 1 1 0 2.6 1.3 1.3 0 0 1 0-2.6zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10z"/></svg>
+        </a>
+        <a class="shadow-ring" target="_blank" rel="noopener" href="https://www.tiktok.com/@blaze.gadgets.hub?_t=ZS-8zCvK0pr9OP&_r=1" aria-label="TikTok" title="TikTok">
+          <!-- TikTok -->
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.5 2h3.1c.2 1.4 1 2.8 2.1 3.8 1.1 1 2.5 1.6 3.9 1.8v3.2c-1.8-.1-3.6-.7-5.1-1.7v6.9a7 7 0 1 1-7-7c.3 0 .7 0 1 .1v3.3c-.3-.1-.7-.1-1-.1a3.7 3.7 0 1 0 3.7 3.7L13 2.1c-.2 0-.3-.1-.5-.1z"/></svg>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container" id="home">
+      <span class="pill">Kathmandu • Mid‑Baneshwor</span>
+      <h2>Your local hub for phones, accessories & gadgets</h2>
+      <p>Quality gadgets, honest prices, and fast support. Visit our Mid‑Baneshwor store or call us for availability and same‑day delivery nearby.</p>
+      <div class="cta">
+        <a class="btn-primary shadow-ring" href="tel:9709950397">Call 9709950397</a>
+        <a class="btn-ghost shadow-ring" href="#contact">Contact / Location</a>
+      </div>
+    </section>
+
+    <section class="features container two-col">
+      <div class="grid">
+        <article class="card">
+          <h3>Popular Categories</h3>
+          <p class="muted">Smartphones • Earphones • Speakers • Smartwatches • Powerbanks • Cables • Cases</p>
+        </article>
+        <article class="card">
+          <h3>Why Blaze?</h3>
+          <ul>
+            <li>Authentic products & clear warranty</li>
+            <li>Fresh deals posted on Facebook, Instagram & TikTok</li>
+            <li>Cash, QR & delivery options</li>
+          </ul>
+        </article>
+      </div>
+      <aside class="card">
+        <h3>Today’s Quick Info</h3>
+        <p class="muted">Message us on social for stock & prices. We reply fast!</p>
+        <div class="badges">
+          <a class="pill shadow-ring" href="https://www.facebook.com/share/1B3jE6tkk6/" target="_blank" rel="noopener">Facebook</a>
+          <a class="pill shadow-ring" href="https://www.instagram.com/blaze_gadget_hub?igsh=eXFhamtvdTRqbm50&utm_source=ig_contact_invite" target="_blank" rel="noopener">Instagram</a>
+          <a class="pill shadow-ring" href="https://www.tiktok.com/@blaze.gadgets.hub?_t=ZS-8zCvK0pr9OP&_r=1" target="_blank" rel="noopener">TikTok</a>
+        </div>
+      </aside>
+    </section>
+
+    <section id="contact" class="contact container">
+      <div class="grid two-col">
+        <div class="card">
+          <h3>Contact</h3>
+          <div class="list">
+            <a href="tel:9709950397" aria-label="Call 9709950397">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.9 15.9 0 0 0 6.6 6.6l2.2-2.2a1.5 1.5 0 0 1 1.5-.4 12 12 0 0 0 3.8.6 1.6 1.6 0 0 1 1.6 1.6V20a2 2 0 0 1-2 2A18 18 0 0 1 2 6a2 2 0 0 1 2-2h3a1.6 1.6 0 0 1 1.6 1.6c0 1.3.2 2.6.6 3.8.2.5.1 1-.4 1.5l-2.2 2.2z"/></svg>
+              9709950397
+            </a>
+            <a href="mailto:blazegadgetshub@gmail.com" aria-label="Email blazegadgetshub@gmail.com">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 2v.2l8 5.3 8-5.3V6H4zm16 12V9.5l-8 5.3-8-5.3V18h16z"/></svg>
+              blazegadgetshub@gmail.com
+            </a>
+            <div>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a8 8 0 0 0-8 8c0 5.6 8 12 8 12s8-6.4 8-12a8 8 0 0 0-8-8zm0 10.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg>
+              Kathmandu, Mid‑Baneshwor
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Message Us</h3>
+          <form onsubmit="event.preventDefault(); alert('Thanks! We will reply soon on social or phone.');" class="grid" style="gap:12px">
+            <input class="shadow-ring" required placeholder="Your name" style="padding:12px 14px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:rgba(255,255,255,.04); color:var(--text);" />
+            <input class="shadow-ring" required type="tel" placeholder="Phone or WhatsApp" style="padding:12px 14px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:rgba(255,255,255,.04); color:var(--text);" />
+            <textarea class="shadow-ring" required placeholder="What are you looking for?" rows="4" style="padding:12px 14px; border-radius:12px; border:1px solid rgba(255,255,255,.12); background:rgba(255,255,255,.04); color:var(--text);"></textarea>
+            <button class="btn-primary shadow-ring" type="submit">Send</button>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container" style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap">
+      <div>© <span id="year"></span> Blaze Gadgets Hub. All rights reserved.</div>
+      <div>Built with ❤️ for Kathmandu • Mid‑Baneshwor</div>
+   
